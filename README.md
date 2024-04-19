@@ -4,7 +4,7 @@ What you need to do in this submission is to create the following 7 tests for th
 
 -------------------------------------------------------------------------  
 
-### Requirements Specification & Requirements Specification  
+### Requirements Specification & Hygiene Specification  
 
 The tests should be written using vitest and should be located in src/tests/functions.test.ts.  
   
